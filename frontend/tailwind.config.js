@@ -29,23 +29,11 @@ module.exports = {
       current: "currentColor",
       white: {
         DEFAULT: "#FFF",
-        100: "#E5E5E5",
-        200: "#F9F9F9",
-        300: "#FFFFFF",
       },
       black: {
         DEFAULT: "#030A1B",
       },
-      primary: {
-        DEFAULT: "#2E6EFF",
-        100: "#433E89",
-      },
-      orange: {
-        DEFAULT: "#FE753F",
-      },
-      red: {
-        DEFAULT: "#E61E14",
-      },
+      primary: {},
     },
     fontSize: {
       10: ".625rem",
